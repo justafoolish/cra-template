@@ -21,3 +21,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.eslintignore
+.gitignore
+.prettierignore
+.gitignore
+*.fixtures.json
+src/registerServiceWorker.js
+.vscode
+public/**
+webapp-static/**
+*.sh
